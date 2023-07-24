@@ -6,7 +6,7 @@ Welcome to the Trivia Website, where you can have a blast answering fun quizzes 
 
 ## Live Demo
 
-Check out the live demo of the Trivia Website [here]([https://your-demo-link.com](https://trivia-site.vercel.app/)).
+Check out the live demo of the Trivia Website [here](https://trivia-site.vercel.app/).
 
 ## Features
 
